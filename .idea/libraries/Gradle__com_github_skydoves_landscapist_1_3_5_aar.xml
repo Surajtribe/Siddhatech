@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:landscapist:1.3.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4692c9acd991b2ee7002906b8f5003ce/transformed/jetified-landscapist-1.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2fd0c65bcf406437aa1dacc996146417/transformed/jetified-landscapist-1.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1a9e43b7a3a31451e728d9e2fb2409b7/transformed/jetified-landscapist-1.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/41e717d90e7e35688ce623a26dacfe4c/transformed/jetified-landscapist-1.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bd0eb6cb9aaf190d9286983123b4614/transformed/jetified-landscapist-1.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bd0eb6cb9aaf190d9286983123b4614/transformed/jetified-landscapist-1.3.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2bd0eb6cb9aaf190d9286983123b4614/transformed/jetified-landscapist-1.3.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/landscapist/1.3.5/e36c5764d7aa0e27ffe2e3e954133af12ad54136/landscapist-1.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/landscapist/1.3.5/8a1f7eec3d3ea5a22c5ae4a7b7ad2c736d5f88d/landscapist-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

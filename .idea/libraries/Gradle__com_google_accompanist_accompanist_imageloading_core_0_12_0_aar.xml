@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-imageloading-core:0.12.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2ea9737d85f1dbe2f3f962f9eeddfb2/transformed/jetified-accompanist-imageloading-core-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9345a05aaf9c393731689635e9ad3cc9/transformed/jetified-accompanist-imageloading-core-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/811c648381a991c0c8e38e95645b9311/transformed/jetified-accompanist-imageloading-core-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10e6a69f69d80ce07fc5f90362b52492/transformed/jetified-accompanist-imageloading-core-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/533840d69f5220fea661478cdf3a42bc/transformed/jetified-accompanist-imageloading-core-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/533840d69f5220fea661478cdf3a42bc/transformed/jetified-accompanist-imageloading-core-0.12.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/533840d69f5220fea661478cdf3a42bc/transformed/jetified-accompanist-imageloading-core-0.12.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-imageloading-core/0.12.0/241ffedea5d779ff574d90bbc736c1ac3c29887c/accompanist-imageloading-core-0.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-imageloading-core/0.12.0/a490af6f6a72a283d9e712288225b0063d597153/accompanist-imageloading-core-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

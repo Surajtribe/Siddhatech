@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-pager:0.17.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c67b709067d3af123de58b6fcfb941ef/transformed/jetified-accompanist-pager-0.17.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b184e35cc4cd642dddd8f55ac0c2f574/transformed/jetified-accompanist-pager-0.17.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/506ac87f9f5013c56820c1759108856f/transformed/jetified-accompanist-pager-0.17.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57d60ae1e37ab4b0f3ca8d3ac3a72d84/transformed/jetified-accompanist-pager-0.17.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f522bff63e41044d0f2447bca3c0567f/transformed/jetified-accompanist-pager-0.17.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f522bff63e41044d0f2447bca3c0567f/transformed/jetified-accompanist-pager-0.17.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f522bff63e41044d0f2447bca3c0567f/transformed/jetified-accompanist-pager-0.17.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-pager/0.17.0/623dd669b2092e14773d0c528a07099001bcbb03/accompanist-pager-0.17.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-pager/0.17.0/d25370251b92a50573bbcb151efba960b1edaeb6/accompanist-pager-0.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

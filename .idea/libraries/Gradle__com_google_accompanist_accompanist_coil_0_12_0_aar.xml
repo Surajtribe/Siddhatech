@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-coil:0.12.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f13c5cf9bf333a921c574d73f4deacea/transformed/jetified-accompanist-coil-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53b4e65f694e77f5d1be3a88bb594b4f/transformed/jetified-accompanist-coil-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0bc7b4fe7274a00699c4c5132280ce19/transformed/jetified-accompanist-coil-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b6f234b8d250475deeb791717057c71/transformed/jetified-accompanist-coil-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/759b0bc4a6bd1553a5d1fb5e64249f06/transformed/jetified-accompanist-coil-0.12.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/759b0bc4a6bd1553a5d1fb5e64249f06/transformed/jetified-accompanist-coil-0.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/759b0bc4a6bd1553a5d1fb5e64249f06/transformed/jetified-accompanist-coil-0.12.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-coil/0.12.0/ec4bd0845ea5eb8d5355b77430792f16485cee16/accompanist-coil-0.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-coil/0.12.0/b0f84d2a91cf2c701435c3ddcd7d62af11152855/accompanist-coil-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
